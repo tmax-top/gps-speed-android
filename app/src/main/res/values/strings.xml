@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS测速</string>
+    <string name="tracking_notification_title">GPS测速正在运行</string>
+    <string name="tracking_notification_text">正在记录速度与骑行数据</string>
+    <string name="tracking_channel_name">骑行测速</string>
+</resources>
